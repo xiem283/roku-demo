@@ -4,121 +4,141 @@
             "title": "Tile 1",
             "description": "position 1",
             "detail": "Expanded detail for Tile 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x1FB6A6FF"
+            "accentColor": "0x1FB6A6FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-1/400/266.webp"
         },
         {
             "title": "Tile 2",
             "description": "position 2",
             "detail": "Expanded detail for Tile 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xE8574AFF"
+            "accentColor": "0xE8574AFF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-2/400/266.webp"
         },
         {
             "title": "Tile 3",
             "description": "position 3",
             "detail": "Expanded detail for Tile 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xF2A33CFF"
+            "accentColor": "0xF2A33CFF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-3/400/266.webp"
         },
         {
             "title": "Tile 4",
             "description": "position 4",
             "detail": "Expanded detail for Tile 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x9B5DE5FF"
+            "accentColor": "0x9B5DE5FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-4/400/266.webp"
         },
         {
             "title": "Tile 5",
             "description": "position 5",
             "detail": "Expanded detail for Tile 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x4CAF50FF"
+            "accentColor": "0x4CAF50FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-5/400/266.webp"
         },
         {
             "title": "Tile 6",
             "description": "position 6",
             "detail": "Expanded detail for Tile 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x385DF7FF"
+            "accentColor": "0x385DF7FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-6/400/266.webp"
         },
         {
             "title": "Tile 7",
             "description": "position 7",
             "detail": "Expanded detail for Tile 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x1FB6A6FF"
+            "accentColor": "0x1FB6A6FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-7/400/266.webp"
         },
         {
             "title": "Tile 8",
             "description": "position 8",
             "detail": "Expanded detail for Tile 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xE8574AFF"
+            "accentColor": "0xE8574AFF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-8/400/266.webp"
         },
         {
             "title": "Tile 9",
             "description": "position 9",
             "detail": "Expanded detail for Tile 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xF2A33CFF"
+            "accentColor": "0xF2A33CFF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-9/400/266.webp"
         },
         {
             "title": "Tile 10",
             "description": "position 10",
             "detail": "Expanded detail for Tile 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x9B5DE5FF"
+            "accentColor": "0x9B5DE5FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-10/400/266.webp"
         },
         {
             "title": "Tile 11",
             "description": "position 11",
             "detail": "Expanded detail for Tile 11. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x4CAF50FF"
+            "accentColor": "0x4CAF50FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-11/400/266.webp"
         },
         {
             "title": "Tile 12",
             "description": "position 12",
             "detail": "Expanded detail for Tile 12. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x385DF7FF"
+            "accentColor": "0x385DF7FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-12/400/266.webp"
         },
         {
             "title": "Tile 13",
             "description": "position 13",
             "detail": "Expanded detail for Tile 13. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x1FB6A6FF"
+            "accentColor": "0x1FB6A6FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-13/400/266.webp"
         },
         {
             "title": "Tile 14",
             "description": "position 14",
             "detail": "Expanded detail for Tile 14. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xE8574AFF"
+            "accentColor": "0xE8574AFF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-14/400/266.webp"
         },
         {
             "title": "Tile 15",
             "description": "position 15",
             "detail": "Expanded detail for Tile 15. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xF2A33CFF"
+            "accentColor": "0xF2A33CFF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-15/400/266.webp"
         },
         {
             "title": "Tile 16",
             "description": "position 16",
             "detail": "Expanded detail for Tile 16. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x9B5DE5FF"
+            "accentColor": "0x9B5DE5FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-16/400/266.webp"
         },
         {
             "title": "Tile 17",
             "description": "position 17",
             "detail": "Expanded detail for Tile 17. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x4CAF50FF"
+            "accentColor": "0x4CAF50FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-17/400/266.webp"
         },
         {
             "title": "Tile 18",
             "description": "position 18",
             "detail": "Expanded detail for Tile 18. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x385DF7FF"
+            "accentColor": "0x385DF7FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-18/400/266.webp"
         },
         {
             "title": "Tile 19",
             "description": "position 19",
             "detail": "Expanded detail for Tile 19. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x1FB6A6FF"
+            "accentColor": "0x1FB6A6FF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-19/400/266.webp"
         },
         {
             "title": "Tile 20",
             "description": "position 20",
             "detail": "Expanded detail for Tile 20. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xE8574AFF"
+            "accentColor": "0xE8574AFF",
+            "posterUrl": "https://picsum.photos/seed/grid-tiles-20/400/266.webp"
         }
     ]
 }
