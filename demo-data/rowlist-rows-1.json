@@ -1,0 +1,530 @@
+{
+    "children": [
+        {
+            "title": "1. Cards",
+            "isCollapsed": false,
+            "children": [
+                {
+                    "title": "Card 1",
+                    "description": "position 1",
+                    "detail": "Expanded detail for Card 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-1/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-1/208/156.webp"
+                },
+                {
+                    "title": "Card 2",
+                    "description": "position 2",
+                    "detail": "Expanded detail for Card 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-2/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-2/208/156.webp"
+                },
+                {
+                    "title": "Card 3",
+                    "description": "position 3",
+                    "detail": "Expanded detail for Card 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-3/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-3/208/156.webp"
+                },
+                {
+                    "title": "Card 4",
+                    "description": "position 4",
+                    "detail": "Expanded detail for Card 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-4/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-4/208/156.webp"
+                },
+                {
+                    "title": "Card 5",
+                    "description": "position 5",
+                    "detail": "Expanded detail for Card 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-5/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-5/208/156.webp"
+                },
+                {
+                    "title": "Card 6",
+                    "description": "position 6",
+                    "detail": "Expanded detail for Card 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-6/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-6/208/156.webp"
+                },
+                {
+                    "title": "Card 7",
+                    "description": "position 7",
+                    "detail": "Expanded detail for Card 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-7/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-7/208/156.webp"
+                },
+                {
+                    "title": "Card 8",
+                    "description": "position 8",
+                    "detail": "Expanded detail for Card 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-8/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-8/208/156.webp"
+                },
+                {
+                    "title": "Card 9",
+                    "description": "position 9",
+                    "detail": "Expanded detail for Card 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-9/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-9/208/156.webp"
+                },
+                {
+                    "title": "Card 10",
+                    "description": "position 10",
+                    "detail": "Expanded detail for Card 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-10/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-10/208/156.webp"
+                },
+                {
+                    "title": "Card 11",
+                    "description": "position 11",
+                    "detail": "Expanded detail for Card 11. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-11/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-11/208/156.webp"
+                },
+                {
+                    "title": "Card 12",
+                    "description": "position 12",
+                    "detail": "Expanded detail for Card 12. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r1-12/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r1-12/208/156.webp"
+                }
+            ]
+        },
+        {
+            "title": "2. Portraits",
+            "isCollapsed": false,
+            "children": [
+                {
+                    "title": "Poster 1",
+                    "description": "position 1",
+                    "detail": "Expanded detail for Poster 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-1/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-1/156/234.webp"
+                },
+                {
+                    "title": "Poster 2",
+                    "description": "position 2",
+                    "detail": "Expanded detail for Poster 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-2/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-2/156/234.webp"
+                },
+                {
+                    "title": "Poster 3",
+                    "description": "position 3",
+                    "detail": "Expanded detail for Poster 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-3/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-3/156/234.webp"
+                },
+                {
+                    "title": "Poster 4",
+                    "description": "position 4",
+                    "detail": "Expanded detail for Poster 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-4/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-4/156/234.webp"
+                },
+                {
+                    "title": "Poster 5",
+                    "description": "position 5",
+                    "detail": "Expanded detail for Poster 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-5/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-5/156/234.webp"
+                },
+                {
+                    "title": "Poster 6",
+                    "description": "position 6",
+                    "detail": "Expanded detail for Poster 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-6/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-6/156/234.webp"
+                },
+                {
+                    "title": "Poster 7",
+                    "description": "position 7",
+                    "detail": "Expanded detail for Poster 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-7/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-7/156/234.webp"
+                },
+                {
+                    "title": "Poster 8",
+                    "description": "position 8",
+                    "detail": "Expanded detail for Poster 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-8/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-8/156/234.webp"
+                },
+                {
+                    "title": "Poster 9",
+                    "description": "position 9",
+                    "detail": "Expanded detail for Poster 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-9/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-9/156/234.webp"
+                },
+                {
+                    "title": "Poster 10",
+                    "description": "position 10",
+                    "detail": "Expanded detail for Poster 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-10/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-10/156/234.webp"
+                },
+                {
+                    "title": "Poster 11",
+                    "description": "position 11",
+                    "detail": "Expanded detail for Poster 11. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-11/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-11/156/234.webp"
+                },
+                {
+                    "title": "Poster 12",
+                    "description": "position 12",
+                    "detail": "Expanded detail for Poster 12. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r2-12/234/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r2-12/156/234.webp"
+                }
+            ],
+            "itemTemplate": "DemoRowListPortraitRowTemplate"
+        },
+        {
+            "title": "3. Circles",
+            "isCollapsed": false,
+            "children": [
+                {
+                    "title": "Person 1",
+                    "description": "position 1",
+                    "detail": "Expanded detail for Person 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-1/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-1/96/96.webp"
+                },
+                {
+                    "title": "Person 2",
+                    "description": "position 2",
+                    "detail": "Expanded detail for Person 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-2/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-2/96/96.webp"
+                },
+                {
+                    "title": "Person 3",
+                    "description": "position 3",
+                    "detail": "Expanded detail for Person 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-3/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-3/96/96.webp"
+                },
+                {
+                    "title": "Person 4",
+                    "description": "position 4",
+                    "detail": "Expanded detail for Person 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-4/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-4/96/96.webp"
+                },
+                {
+                    "title": "Person 5",
+                    "description": "position 5",
+                    "detail": "Expanded detail for Person 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-5/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-5/96/96.webp"
+                },
+                {
+                    "title": "Person 6",
+                    "description": "position 6",
+                    "detail": "Expanded detail for Person 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-6/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-6/96/96.webp"
+                },
+                {
+                    "title": "Person 7",
+                    "description": "position 7",
+                    "detail": "Expanded detail for Person 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-7/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-7/96/96.webp"
+                },
+                {
+                    "title": "Person 8",
+                    "description": "position 8",
+                    "detail": "Expanded detail for Person 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-8/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-8/96/96.webp"
+                },
+                {
+                    "title": "Person 9",
+                    "description": "position 9",
+                    "detail": "Expanded detail for Person 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-9/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-9/96/96.webp"
+                },
+                {
+                    "title": "Person 10",
+                    "description": "position 10",
+                    "detail": "Expanded detail for Person 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-10/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-10/96/96.webp"
+                },
+                {
+                    "title": "Person 11",
+                    "description": "position 11",
+                    "detail": "Expanded detail for Person 11. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-11/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-11/96/96.webp"
+                },
+                {
+                    "title": "Person 12",
+                    "description": "position 12",
+                    "detail": "Expanded detail for Person 12. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r3-12/144/144.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r3-12/96/96.webp"
+                }
+            ],
+            "itemTemplate": "DemoRowListCircleRowTemplate"
+        },
+        {
+            "title": "4. Zoom",
+            "isCollapsed": false,
+            "children": [
+                {
+                    "title": "Feature 1",
+                    "description": "position 1",
+                    "detail": "Expanded detail for Feature 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-1/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-1/416/234.webp"
+                },
+                {
+                    "title": "Feature 2",
+                    "description": "position 2",
+                    "detail": "Expanded detail for Feature 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-2/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-2/416/234.webp"
+                },
+                {
+                    "title": "Feature 3",
+                    "description": "position 3",
+                    "detail": "Expanded detail for Feature 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-3/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-3/416/234.webp"
+                },
+                {
+                    "title": "Feature 4",
+                    "description": "position 4",
+                    "detail": "Expanded detail for Feature 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-4/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-4/416/234.webp"
+                },
+                {
+                    "title": "Feature 5",
+                    "description": "position 5",
+                    "detail": "Expanded detail for Feature 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-5/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-5/416/234.webp"
+                },
+                {
+                    "title": "Feature 6",
+                    "description": "position 6",
+                    "detail": "Expanded detail for Feature 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-6/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-6/416/234.webp"
+                },
+                {
+                    "title": "Feature 7",
+                    "description": "position 7",
+                    "detail": "Expanded detail for Feature 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-7/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-7/416/234.webp"
+                },
+                {
+                    "title": "Feature 8",
+                    "description": "position 8",
+                    "detail": "Expanded detail for Feature 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-8/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-8/416/234.webp"
+                },
+                {
+                    "title": "Feature 9",
+                    "description": "position 9",
+                    "detail": "Expanded detail for Feature 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-9/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-9/416/234.webp"
+                },
+                {
+                    "title": "Feature 10",
+                    "description": "position 10",
+                    "detail": "Expanded detail for Feature 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-10/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-10/416/234.webp"
+                },
+                {
+                    "title": "Feature 11",
+                    "description": "position 11",
+                    "detail": "Expanded detail for Feature 11. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-11/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-11/416/234.webp"
+                },
+                {
+                    "title": "Feature 12",
+                    "description": "position 12",
+                    "detail": "Expanded detail for Feature 12. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r4-12/624/351.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r4-12/416/234.webp"
+                }
+            ],
+            "itemTemplate": "DemoRowListZoomRowTemplate"
+        },
+        {
+            "title": "5. Cards and posters",
+            "isCollapsed": false,
+            "children": [
+                {
+                    "title": "Item 1",
+                    "description": "position 1",
+                    "detail": "Expanded detail for Item 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-1/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-1/208/156.webp",
+                    "itemTemplate": "DemoCardTemplate"
+                },
+                {
+                    "title": "Item 2",
+                    "description": "position 2",
+                    "detail": "Expanded detail for Item 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-2/156/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-2/104/156.webp",
+                    "itemTemplate": "DemoSmallPortraitCardTemplate"
+                },
+                {
+                    "title": "Item 3",
+                    "description": "position 3",
+                    "detail": "Expanded detail for Item 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-3/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-3/208/156.webp",
+                    "itemTemplate": "DemoCardTemplate"
+                },
+                {
+                    "title": "Item 4",
+                    "description": "position 4",
+                    "detail": "Expanded detail for Item 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-4/156/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-4/104/156.webp",
+                    "itemTemplate": "DemoSmallPortraitCardTemplate"
+                },
+                {
+                    "title": "Item 5",
+                    "description": "position 5",
+                    "detail": "Expanded detail for Item 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-5/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-5/208/156.webp",
+                    "itemTemplate": "DemoCardTemplate"
+                },
+                {
+                    "title": "Item 6",
+                    "description": "position 6",
+                    "detail": "Expanded detail for Item 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-6/156/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-6/104/156.webp",
+                    "itemTemplate": "DemoSmallPortraitCardTemplate"
+                },
+                {
+                    "title": "Item 7",
+                    "description": "position 7",
+                    "detail": "Expanded detail for Item 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x1FB6A6FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-7/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-7/208/156.webp",
+                    "itemTemplate": "DemoCardTemplate"
+                },
+                {
+                    "title": "Item 8",
+                    "description": "position 8",
+                    "detail": "Expanded detail for Item 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xE8574AFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-8/156/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-8/104/156.webp",
+                    "itemTemplate": "DemoSmallPortraitCardTemplate"
+                },
+                {
+                    "title": "Item 9",
+                    "description": "position 9",
+                    "detail": "Expanded detail for Item 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0xF2A33CFF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-9/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-9/208/156.webp",
+                    "itemTemplate": "DemoCardTemplate"
+                },
+                {
+                    "title": "Item 10",
+                    "description": "position 10",
+                    "detail": "Expanded detail for Item 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x9B5DE5FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-10/156/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-10/104/156.webp",
+                    "itemTemplate": "DemoSmallPortraitCardTemplate"
+                },
+                {
+                    "title": "Item 11",
+                    "description": "position 11",
+                    "detail": "Expanded detail for Item 11. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x4CAF50FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-11/312/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-11/208/156.webp",
+                    "itemTemplate": "DemoCardTemplate"
+                },
+                {
+                    "title": "Item 12",
+                    "description": "position 12",
+                    "detail": "Expanded detail for Item 12. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "accentColor": "0x385DF7FF",
+                    "fhdPosterUrl": "https://picsum.photos/seed/rowlist-r5-12/156/234.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/rowlist-r5-12/104/156.webp",
+                    "itemTemplate": "DemoSmallPortraitCardTemplate"
+                }
+            ],
+            "itemTemplate": "DemoRowListMixedWidthRowTemplate"
+        }
+    ]
+}

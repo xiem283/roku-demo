@@ -1,130 +1,774 @@
 {
     "children": [
         {
-            "title": "Chapter 1",
-            "description": "position 1",
-            "detail": "Expanded detail for Chapter 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x1FB6A6FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-1/160/90.webp"
+            "title": "Season 1",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 1, episode 1  |  52 min",
+                    "detail": "Expanded detail for season 1, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 1, episode 2  |  57 min",
+                    "detail": "Expanded detail for season 1, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 1, episode 3  |  41 min",
+                    "detail": "Expanded detail for season 1, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 1, episode 4  |  46 min",
+                    "detail": "Expanded detail for season 1, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 1, episode 5  |  51 min",
+                    "detail": "Expanded detail for season 1, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 1, episode 6  |  56 min",
+                    "detail": "Expanded detail for season 1, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 1, episode 7  |  40 min",
+                    "detail": "Expanded detail for season 1, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 1, episode 8  |  45 min",
+                    "detail": "Expanded detail for season 1, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 1, episode 9  |  50 min",
+                    "detail": "Expanded detail for season 1, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 1, episode 10  |  55 min",
+                    "detail": "Expanded detail for season 1, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s1e10/106/60.webp"
+                }
+            ]
         },
         {
-            "title": "Chapter 2",
-            "description": "position 2",
-            "detail": "Expanded detail for Chapter 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xE8574AFF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-2/160/90.webp"
+            "title": "Season 2",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 2, episode 1  |  59 min",
+                    "detail": "Expanded detail for season 2, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 2, episode 2  |  43 min",
+                    "detail": "Expanded detail for season 2, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 2, episode 3  |  48 min",
+                    "detail": "Expanded detail for season 2, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 2, episode 4  |  53 min",
+                    "detail": "Expanded detail for season 2, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 2, episode 5  |  58 min",
+                    "detail": "Expanded detail for season 2, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 2, episode 6  |  42 min",
+                    "detail": "Expanded detail for season 2, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 2, episode 7  |  47 min",
+                    "detail": "Expanded detail for season 2, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 2, episode 8  |  52 min",
+                    "detail": "Expanded detail for season 2, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 2, episode 9  |  57 min",
+                    "detail": "Expanded detail for season 2, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 2, episode 10  |  41 min",
+                    "detail": "Expanded detail for season 2, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s2e10/106/60.webp"
+                }
+            ]
         },
         {
-            "title": "Chapter 3",
-            "description": "position 3",
-            "detail": "Expanded detail for Chapter 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xF2A33CFF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-3/160/90.webp"
+            "title": "Season 3",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 3, episode 1  |  45 min",
+                    "detail": "Expanded detail for season 3, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 3, episode 2  |  50 min",
+                    "detail": "Expanded detail for season 3, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 3, episode 3  |  55 min",
+                    "detail": "Expanded detail for season 3, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 3, episode 4  |  60 min",
+                    "detail": "Expanded detail for season 3, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 3, episode 5  |  44 min",
+                    "detail": "Expanded detail for season 3, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 3, episode 6  |  49 min",
+                    "detail": "Expanded detail for season 3, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 3, episode 7  |  54 min",
+                    "detail": "Expanded detail for season 3, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 3, episode 8  |  59 min",
+                    "detail": "Expanded detail for season 3, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 3, episode 9  |  43 min",
+                    "detail": "Expanded detail for season 3, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 3, episode 10  |  48 min",
+                    "detail": "Expanded detail for season 3, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s3e10/106/60.webp"
+                }
+            ]
         },
         {
-            "title": "Chapter 4",
-            "description": "position 4",
-            "detail": "Expanded detail for Chapter 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x9B5DE5FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-4/160/90.webp"
+            "title": "Season 4",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 4, episode 1  |  52 min",
+                    "detail": "Expanded detail for season 4, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 4, episode 2  |  57 min",
+                    "detail": "Expanded detail for season 4, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 4, episode 3  |  41 min",
+                    "detail": "Expanded detail for season 4, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 4, episode 4  |  46 min",
+                    "detail": "Expanded detail for season 4, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 4, episode 5  |  51 min",
+                    "detail": "Expanded detail for season 4, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 4, episode 6  |  56 min",
+                    "detail": "Expanded detail for season 4, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 4, episode 7  |  40 min",
+                    "detail": "Expanded detail for season 4, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 4, episode 8  |  45 min",
+                    "detail": "Expanded detail for season 4, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 4, episode 9  |  50 min",
+                    "detail": "Expanded detail for season 4, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 4, episode 10  |  55 min",
+                    "detail": "Expanded detail for season 4, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s4e10/106/60.webp"
+                }
+            ]
         },
         {
-            "title": "Chapter 5",
-            "description": "position 5",
-            "detail": "Expanded detail for Chapter 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x4CAF50FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-5/160/90.webp"
+            "title": "Season 5",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 5, episode 1  |  59 min",
+                    "detail": "Expanded detail for season 5, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 5, episode 2  |  43 min",
+                    "detail": "Expanded detail for season 5, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 5, episode 3  |  48 min",
+                    "detail": "Expanded detail for season 5, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 5, episode 4  |  53 min",
+                    "detail": "Expanded detail for season 5, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 5, episode 5  |  58 min",
+                    "detail": "Expanded detail for season 5, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 5, episode 6  |  42 min",
+                    "detail": "Expanded detail for season 5, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 5, episode 7  |  47 min",
+                    "detail": "Expanded detail for season 5, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 5, episode 8  |  52 min",
+                    "detail": "Expanded detail for season 5, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 5, episode 9  |  57 min",
+                    "detail": "Expanded detail for season 5, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 5, episode 10  |  41 min",
+                    "detail": "Expanded detail for season 5, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s5e10/106/60.webp"
+                }
+            ]
         },
         {
-            "title": "Chapter 6",
-            "description": "position 6",
-            "detail": "Expanded detail for Chapter 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x385DF7FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-6/160/90.webp"
+            "title": "Season 6",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 6, episode 1  |  45 min",
+                    "detail": "Expanded detail for season 6, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 6, episode 2  |  50 min",
+                    "detail": "Expanded detail for season 6, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 6, episode 3  |  55 min",
+                    "detail": "Expanded detail for season 6, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 6, episode 4  |  60 min",
+                    "detail": "Expanded detail for season 6, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 6, episode 5  |  44 min",
+                    "detail": "Expanded detail for season 6, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 6, episode 6  |  49 min",
+                    "detail": "Expanded detail for season 6, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 6, episode 7  |  54 min",
+                    "detail": "Expanded detail for season 6, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 6, episode 8  |  59 min",
+                    "detail": "Expanded detail for season 6, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 6, episode 9  |  43 min",
+                    "detail": "Expanded detail for season 6, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 6, episode 10  |  48 min",
+                    "detail": "Expanded detail for season 6, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s6e10/106/60.webp"
+                }
+            ]
         },
         {
-            "title": "Chapter 7",
-            "description": "position 7",
-            "detail": "Expanded detail for Chapter 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x1FB6A6FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-7/160/90.webp"
+            "title": "Season 7",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 7, episode 1  |  52 min",
+                    "detail": "Expanded detail for season 7, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 7, episode 2  |  57 min",
+                    "detail": "Expanded detail for season 7, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 7, episode 3  |  41 min",
+                    "detail": "Expanded detail for season 7, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 7, episode 4  |  46 min",
+                    "detail": "Expanded detail for season 7, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 7, episode 5  |  51 min",
+                    "detail": "Expanded detail for season 7, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 7, episode 6  |  56 min",
+                    "detail": "Expanded detail for season 7, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 7, episode 7  |  40 min",
+                    "detail": "Expanded detail for season 7, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 7, episode 8  |  45 min",
+                    "detail": "Expanded detail for season 7, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 7, episode 9  |  50 min",
+                    "detail": "Expanded detail for season 7, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 7, episode 10  |  55 min",
+                    "detail": "Expanded detail for season 7, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s7e10/106/60.webp"
+                }
+            ]
         },
         {
-            "title": "Chapter 8",
-            "description": "position 8",
-            "detail": "Expanded detail for Chapter 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xE8574AFF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-8/160/90.webp"
+            "title": "Season 8",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 8, episode 1  |  59 min",
+                    "detail": "Expanded detail for season 8, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 8, episode 2  |  43 min",
+                    "detail": "Expanded detail for season 8, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 8, episode 3  |  48 min",
+                    "detail": "Expanded detail for season 8, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 8, episode 4  |  53 min",
+                    "detail": "Expanded detail for season 8, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 8, episode 5  |  58 min",
+                    "detail": "Expanded detail for season 8, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 8, episode 6  |  42 min",
+                    "detail": "Expanded detail for season 8, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 8, episode 7  |  47 min",
+                    "detail": "Expanded detail for season 8, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 8, episode 8  |  52 min",
+                    "detail": "Expanded detail for season 8, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 8, episode 9  |  57 min",
+                    "detail": "Expanded detail for season 8, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 8, episode 10  |  41 min",
+                    "detail": "Expanded detail for season 8, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s8e10/106/60.webp"
+                }
+            ]
         },
         {
-            "title": "Chapter 9",
-            "description": "position 9",
-            "detail": "Expanded detail for Chapter 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xF2A33CFF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-9/160/90.webp"
+            "title": "Season 9",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 9, episode 1  |  45 min",
+                    "detail": "Expanded detail for season 9, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 9, episode 2  |  50 min",
+                    "detail": "Expanded detail for season 9, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 9, episode 3  |  55 min",
+                    "detail": "Expanded detail for season 9, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 9, episode 4  |  60 min",
+                    "detail": "Expanded detail for season 9, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 9, episode 5  |  44 min",
+                    "detail": "Expanded detail for season 9, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 9, episode 6  |  49 min",
+                    "detail": "Expanded detail for season 9, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 9, episode 7  |  54 min",
+                    "detail": "Expanded detail for season 9, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 9, episode 8  |  59 min",
+                    "detail": "Expanded detail for season 9, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 9, episode 9  |  43 min",
+                    "detail": "Expanded detail for season 9, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 9, episode 10  |  48 min",
+                    "detail": "Expanded detail for season 9, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s9e10/106/60.webp"
+                }
+            ]
         },
         {
-            "title": "Chapter 10",
-            "description": "position 10",
-            "detail": "Expanded detail for Chapter 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x9B5DE5FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-10/160/90.webp"
-        },
-        {
-            "title": "Chapter 11",
-            "description": "position 11",
-            "detail": "Expanded detail for Chapter 11. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x4CAF50FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-11/160/90.webp"
-        },
-        {
-            "title": "Chapter 12",
-            "description": "position 12",
-            "detail": "Expanded detail for Chapter 12. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x385DF7FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-12/160/90.webp"
-        },
-        {
-            "title": "Chapter 13",
-            "description": "position 13",
-            "detail": "Expanded detail for Chapter 13. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x1FB6A6FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-13/160/90.webp"
-        },
-        {
-            "title": "Chapter 14",
-            "description": "position 14",
-            "detail": "Expanded detail for Chapter 14. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xE8574AFF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-14/160/90.webp"
-        },
-        {
-            "title": "Chapter 15",
-            "description": "position 15",
-            "detail": "Expanded detail for Chapter 15. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0xF2A33CFF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-15/160/90.webp"
-        },
-        {
-            "title": "Chapter 16",
-            "description": "position 16",
-            "detail": "Expanded detail for Chapter 16. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x9B5DE5FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-16/160/90.webp"
-        },
-        {
-            "title": "Chapter 17",
-            "description": "position 17",
-            "detail": "Expanded detail for Chapter 17. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x4CAF50FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-17/160/90.webp"
-        },
-        {
-            "title": "Chapter 18",
-            "description": "position 18",
-            "detail": "Expanded detail for Chapter 18. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
-            "accentColor": "0x385DF7FF",
-            "posterUrl": "https://picsum.photos/seed/zoom-chapters-18/160/90.webp"
+            "title": "Season 10",
+            "contentType": "group",
+            "itemTemplate": "DemoSeasonHeaderTemplate",
+            "children": [
+                {
+                    "title": "Episode 1",
+                    "description": "Season 10, episode 1  |  52 min",
+                    "detail": "Expanded detail for season 10, episode 1. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e1/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e1/106/60.webp"
+                },
+                {
+                    "title": "Episode 2",
+                    "description": "Season 10, episode 2  |  57 min",
+                    "detail": "Expanded detail for season 10, episode 2. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e2/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e2/106/60.webp"
+                },
+                {
+                    "title": "Episode 3",
+                    "description": "Season 10, episode 3  |  41 min",
+                    "detail": "Expanded detail for season 10, episode 3. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e3/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e3/106/60.webp"
+                },
+                {
+                    "title": "Episode 4",
+                    "description": "Season 10, episode 4  |  46 min",
+                    "detail": "Expanded detail for season 10, episode 4. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e4/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e4/106/60.webp"
+                },
+                {
+                    "title": "Episode 5",
+                    "description": "Season 10, episode 5  |  51 min",
+                    "detail": "Expanded detail for season 10, episode 5. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e5/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e5/106/60.webp"
+                },
+                {
+                    "title": "Episode 6",
+                    "description": "Season 10, episode 6  |  56 min",
+                    "detail": "Expanded detail for season 10, episode 6. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e6/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e6/106/60.webp"
+                },
+                {
+                    "title": "Episode 7",
+                    "description": "Season 10, episode 7  |  40 min",
+                    "detail": "Expanded detail for season 10, episode 7. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e7/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e7/106/60.webp"
+                },
+                {
+                    "title": "Episode 8",
+                    "description": "Season 10, episode 8  |  45 min",
+                    "detail": "Expanded detail for season 10, episode 8. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e8/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e8/106/60.webp"
+                },
+                {
+                    "title": "Episode 9",
+                    "description": "Season 10, episode 9  |  50 min",
+                    "detail": "Expanded detail for season 10, episode 9. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e9/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e9/106/60.webp"
+                },
+                {
+                    "title": "Episode 10",
+                    "description": "Season 10, episode 10  |  55 min",
+                    "detail": "Expanded detail for season 10, episode 10. ZoomListControl reserves this space by growing the row, so the items below it slide down rather than being covered.",
+                    "fhdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e10/160/90.webp",
+                    "hdPosterUrl": "https://picsum.photos/seed/zoom-chapters-s10e10/106/60.webp"
+                }
+            ]
         }
     ]
 }
