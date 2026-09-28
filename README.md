@@ -1,34 +1,58 @@
-# Tam Tran — Roku App Demo
+<div align="center">
 
-A demo of a custom SceneGraph UI framework I built from scratch, 
-replacing Roku's built-in collection components with my own list, 
-grid, carousel, and EPG controls.
+# Roku SceneGraph UI Framework Demo
+**Tam Tran**
 
-**Try it on your Roku:** https://my.roku.com/account/add/TamTranDemoApp
+Custom list, grid, row list & EPG controls, built from scratch
 
-## Components
-Videos were captured on a Roku Streaming Stick 4K (3820X) - OS 15.3
+**[▶ Try it on your Roku](https://my.roku.com/account/add/TamTranDemoApp)** · Roku OS 15.1+
 
-#### Menu:
+UI virtualization · Mixed templates · Lazy load · Modular · Customizable · Smooth on low-end devices
 
-https://github.com/user-attachments/assets/76085c77-c98e-4914-8999-02c2725d2e9c
+*Recorded on Roku Express 3900X · OS 15.3*
 
-#### List:
+</div>
 
-https://github.com/user-attachments/assets/ae7fb304-5b80-47da-a4b8-53ac697c6610
+---
 
-#### Grid:
+## Menu
+Zoom list · Floating focus
 
-https://github.com/user-attachments/assets/80d6126d-8eb9-4029-a7ca-b5b86cd04f7e
+https://github.com/user-attachments/assets/d906ecd9-45b4-4eac-bb09-2b9d3896567f
 
-#### Zoomable List:
+---
 
-https://github.com/user-attachments/assets/45508a09-778c-4649-9389-d3f9968a897c
+## List
+Horizontal / vertical · 4 focus modes · Auto-scroll · Lazy load
 
-#### Carousels:
+https://github.com/user-attachments/assets/858d1ba4-aebd-46e7-9667-19a2ca1c4494
 
-https://github.com/user-attachments/assets/cf44858e-06b1-40c9-b3cf-275c8916b5d0
+---
 
-#### EPG:
+## Grid
+Adaptive columns · 2-axis focus · Lazy load
 
-https://github.com/user-attachments/assets/1db0d1a6-cd92-4103-8845-e324c44fa841
+https://github.com/user-attachments/assets/5e2781a5-4c56-42b7-97d2-8a9bf150538d
+
+---
+
+## Zoomable List
+Smooth zoom · Scroll-synced zoom · Group
+
+https://github.com/user-attachments/assets/b60a5ce7-2fb9-438f-bd60-2363c977e06b
+
+---
+
+## Row List
+Per-row templates · Mixed item templates · Remembers position · Custom rows
+
+https://github.com/user-attachments/assets/bb193515-55f7-46d1-a887-364906afaaab
+
+---
+
+## EPG
+40 channels × 24 h · Wrap-around · Live now-line · Prefetch
+
+https://github.com/user-attachments/assets/adf138bd-78e8-4570-be49-f99f261ce298
+
+---
